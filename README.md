@@ -4,7 +4,7 @@ Repository for my project, where I **estimate the age and gender of a person usi
 
 The dataset used was the [UTKFace](https://susanqq.github.io/UTKFace/) (aligned and cropped faces) dataset. It has also been uploaded in this repository. 
 
-The model used was a **combination of two DCNN in TensorFlow 2**. 
+The model used was a **combination of two DCNN in TensorFlow**. 
 
 Below is the output given by trained model - 
 
