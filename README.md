@@ -6,7 +6,7 @@ The dataset used was the [UTKFace](https://susanqq.github.io/UTKFace/) (aligned 
 
 The model used was a **combination of two DCNN in TensorFlow 2**. 
 
-Example output - 
+Test output by trained model - 
 
 </br>
 <img src="https://github.com/27rg5/Age-and-Gender-Estimation/blob/master/example.png" width="350">
